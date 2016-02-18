@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Location of project
-PROJECT_PATH=/home/emmanuel/Documents/Work
+PROJECT_PATH=`pwd`/..
 
 # Contains all variables used in script
 
